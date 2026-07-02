@@ -23,7 +23,7 @@ Analyzed 42M+ e-commerce events to map the **View → Cart → Purchase** funnel
 - **42,448,764 raw events** from October 2019, covering View, Cart, and Purchase actions
 - **Key fields:** `event_time`, `event_type`, `user_session`, `category_code`, `price`, `brand`, `product_id`
 
-The raw CSV is not included in this repo due to size (2.8GB+ in memory). To reproduce the analysis, download the file from the Kaggle link above and place it in `data/raw/`.
+The raw CSV is not included in this repo due to size (5.67GB on disk). To reproduce the analysis, download the file from the Kaggle link above and place it in `data/raw/`.
 
 ---
 
