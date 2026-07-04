@@ -38,16 +38,16 @@ The raw CSV is not included in this repo due to size (5.67GB on disk). To reprod
 
 ### Category Performance
 
+**Top converting categories (overall):**
+1. Electronics — 5.24%
+2. Appliances — 2.74%
+3. Construction — 1.98%
+   
 **Medicine actually ranks 2nd overall at 3.18% — ahead of Appliances**
 However, **Medicine only had 3,957 views and 126 purchases total, a tiny fraction of Electronics' 4M+ views and 214K+ purchases**
 
 Given this low volume, Medicine is excluded from "Top Performers" below — the rate is fairly precise but the traffic isn't large enough to be strategically actionable
 Full unfiltered breakdown (including Medicine, with view counts) is available in the Tableau dashboard
-
-**Top converting categories (overall):**
-1. Electronics — 5.24%
-2. Appliances — 2.74%
-3. Construction — 1.98%
 
 **Lowest converting categories (overall):**
 1. Apparel — 0.19%
