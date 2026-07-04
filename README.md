@@ -43,10 +43,10 @@ The raw CSV is not included in this repo due to size (5.67GB on disk). To reprod
 2. Appliances — 2.74%
 3. Construction — 1.98%
    
-**Medicine actually ranks 2nd overall at 3.18% — ahead of Appliances**
+>**Medicine actually ranks 2nd overall at 3.18% — ahead of Appliances**
 However, **Medicine only had 3,957 views and 126 purchases total, a tiny fraction of Electronics' 4M+ views and 214K+ purchases**
 
-Given this low volume, Medicine is excluded from "Top Performers" — the rate is fairly precise but the traffic isn't large enough to be strategically actionable
+>Given this low volume, Medicine is excluded from "Top Performers" — the rate is fairly precise but the traffic isn't large enough to be strategically actionable
 Full unfiltered breakdown (including Medicine, with view counts) is available in the Tableau dashboard
 
 **Lowest converting categories (overall):**
