@@ -34,7 +34,7 @@ The raw CSV is not included in this repo due to size (5.67GB on disk). To reprod
 | Cart → Purchase | 49.01% | 50.99% |
 | View → Purchase (overall) | 3.03% | 96.97% |
 
-**The largest drop-off happens before the cart stage** — pointing to opportunities in product discoverability, pricing clarity, and landing page relevance, rather than checkout friction.
+>**The largest drop-off happens before the cart stage** — pointing to opportunities in product discoverability, pricing clarity, and landing page relevance, rather than checkout friction.
 
 ### Category Performance
 
