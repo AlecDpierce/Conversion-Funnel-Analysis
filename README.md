@@ -38,8 +38,7 @@ The raw CSV is not included in this repo due to size (5.67GB on disk). To reprod
 
 ### Category Performance
 
-Two versions of the category breakdown are used: by_category (all categories) and by_category_10k (filtered to 10,000+ views only)
-By raw conversion rate, **Medicine actually ranks 2nd overall at 3.18% — ahead of Appliances**
+**Medicine actually ranks 2nd overall at 3.18% — ahead of Appliances**
 However, **Medicine only had 3,957 views and 126 purchases total, a tiny fraction of Electronics' 4M+ views and 214K+ purchases**
 
 Given this low volume, Medicine is excluded from "Top Performers" below — the rate is fairly precise but the traffic isn't large enough to be strategically actionable
