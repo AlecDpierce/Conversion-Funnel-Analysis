@@ -102,6 +102,7 @@ Add detailed size guides, lifestyle/review videos, 360° product views, and clea
 
 **5. Improve conversion during high-traffic periods**
 Cart activity nearly doubled during two windows in October, but purchases didn't scale proportionally suggesting checkout friction or hesitation increases under higher demand. Consider ensuring checkout infrastructure scales with traffic, adding urgency messaging during high-activity windows, and sending targeted cart-recovery nudges during and immediately after these periods.
+
 ---
 
 ## Tech Stack
