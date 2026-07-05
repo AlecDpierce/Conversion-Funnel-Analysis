@@ -36,6 +36,28 @@ The raw CSV is not included in this repo due to size (5.67GB on disk). To reprod
 
 >**The largest drop-off happens before the cart stage** — pointing to opportunities in product discoverability, pricing clarity, and landing page relevance, rather than checkout friction.
 
+
+### Daily Activity Patterns
+
+**View Sessions:**
+- Spiked from 239,850 (Oct 3) to 299,315 (Oct 4)
+- A second rise brought views from 261,852 (Oct 7) to 306,761 (Oct 8)
+- Views held steady above 300K from Oct 8 through Oct 23 (309,009), then declined for the remainder of the month, ending at 280,002 on Oct 31
+
+**Cart Sessions:**
+- Jumped from 11,527 (Oct 3) to 26,663 (Oct 4) — more than doubling in a single day
+- A second, larger spike ran from 12,401 (Oct 12) to 31,090 (Oct 15)
+- Cart activity then declined steadily through Oct 27 (21,379), before dropping sharply to 10,726 by month end
+
+**Purchase Sessions:**
+- Rose from 16,154 (Oct 3) to 22,933 (Oct 4)
+- Increased again from 18,652 (Oct 10) to 25,212 (Oct 13)
+- Peaked at 26,503 (Oct 16), then declined steadily to 17,320 by month end
+
+**Insight:** Cart sessions grew far more sharply than either Views or Purchases during both spikes. On Oct 3–4, Cart activity grew ~131% (11,527 → 26,663) while Views grew only ~25% and Purchases ~42% over the same day. This gap is even more pronounced in the second window: Views stayed essentially flat (~300K throughout Oct 8–23), yet Cart sessions grew ~151% (12,401 → 31,090), while Purchases grew only ~42% (18,652 → 26,503) over a comparable stretch. Cart-adding behavior consistently outpaced both browsing and buying during these windows.
+
+The cause isn't identifiable from this dataset alone (no promotional or campaign data is included), but the pattern suggests an opportunity to investigate checkout friction or purchase hesitation specifically during high cart-activity periods.
+
 ### Category Performance
 
 **Top converting categories (overall):**
