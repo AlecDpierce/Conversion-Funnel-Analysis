@@ -54,9 +54,9 @@ The raw CSV is not included in this repo due to size (5.67GB on disk). To reprod
 - Increased again from 18,652 (Oct 10) to 25,212 (Oct 13)
 - Peaked at 26,503 (Oct 16), then declined steadily to 17,320 by month end
 
-**Insight:** Cart sessions grew far more sharply than either Views or Purchases during both spikes. On Oct 3–4, Cart activity grew ~131% (11,527 → 26,663) while Views grew only ~25% and Purchases ~42% over the same day. This gap is even more pronounced in the second window: Views stayed essentially flat (~300K throughout Oct 8–23), yet Cart sessions grew ~151% (12,401 → 31,090), while Purchases grew only ~42% (18,652 → 26,503) over a comparable stretch. Cart-adding behavior consistently outpaced both browsing and buying during these windows.
+>**Insight:** Cart sessions grew far more sharply than either Views or Purchases during both spikes. On Oct 3–4, Cart activity grew ~131% (11,527 → 26,663) while Views grew only ~25% and Purchases ~42% over the same day. This gap is even more pronounced in the second window: Views stayed essentially flat (~300K throughout Oct 8–23), yet Cart sessions grew ~151% (12,401 → 31,090), while Purchases grew only ~42% (18,652 → 26,503) over a comparable stretch. Cart-adding behavior consistently outpaced both browsing and buying during these windows.
 
-The cause isn't identifiable from this dataset alone (no promotional or campaign data is included), but the pattern suggests an opportunity to investigate checkout friction or purchase hesitation specifically during high cart-activity periods.
+>The cause isn't identifiable from this dataset alone (no promotional or campaign data is included), but the pattern suggests an opportunity to investigate checkout friction or purchase hesitation specifically during high cart-activity periods.
 
 ### Category Performance
 
