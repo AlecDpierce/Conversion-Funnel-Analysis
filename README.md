@@ -1,6 +1,6 @@
 # Conversion Funnel Analysis for E-Commerce Multi-Category Online Store
 
-Analyzed 42M+ e-commerce events to map the **View → Cart → Purchase** funnel, uncovering a 93.8% drop-off before cart, category level conversion gaps, and a cart-activity spike that didn't fully convert into sales, with actionable recommendations and an interactive Tableau dashboard.
+Analyzed 42M+ e-commerce events to map the **View → Cart → Purchase** funnel, uncovering a 93.8% drop-off before cart, category level conversion gaps, and a cart-activity spike that didn't fully convert into sales, with actionable recommendations and a interactive Tableau dashboard.
 
 **Business Question:** Where do shoppers abandon the purchase journey, and which product categories convert best?
 
